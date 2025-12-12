@@ -1,4 +1,4 @@
-# 📈 AlgoTrade: Quantitative Stock Price Prediction Pipeline
+# 📈 Hedge Fund: Quantitative Stock Price Prediction Pipeline
 
 ## 🚀 Executive Summary
 In the high-frequency domain of algorithmic trading, static statistical models often fail to capture real-time market volatility. This project involves building a scalable **Data Science Pipeline** to ingest, analyze, and predict short-term price movements for major tech equities (**AAPL, MSFT, GOOGL, AMZN, TSLA**).
